@@ -41,8 +41,7 @@ Have a Nice Day 🙂
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [React Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
-|[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone) | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , **Styled-Components**  |
-|  [Travel Booking App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/travel-booking-app)  | [Have a look](https://beaches-book-your-trip.vercel.app/) | **ReactJS** , **Javascript** , **TailwindCSS** |
+|[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone) | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , 
 
 
 <hr>
