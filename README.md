@@ -69,33 +69,6 @@ Have a Nice Day 🙂
 
 
 
-<!--
-| Title  |  Deployed Link   | Tech Stack |
-| :-------- | :------- | :-------------------------------- |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
- -->
-
-
-<!-- 
-Icons - 
-
-PLUS ICON =>          <img align="center" src="https://i.imgur.com/t1LI2Zy.png"/>  
-REACT.JS ICON =>      <img align="center" src="https://img.icons8.com/plasticine/60/000000/react.png"/>  
-Typescript =>         <img align="center" src="https://img.icons8.com/color/60/000000/typescript.png"/>
-Express.js =>         <img align="center" src="https://img.icons8.com/nolan/60/express-js.png"/> 
-MongoDb =>            <img align="center" src="https://img.icons8.com/color/60/000000/mongodb.png"/>
-Javascript =>         <img align="center" src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
-Node.js =>            <img align="center" src="https://img.icons8.com/fluency/60/000000/node-js.png"/>
-
--->
-
- 
 
 
 
