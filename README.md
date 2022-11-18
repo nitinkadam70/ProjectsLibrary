@@ -90,12 +90,5 @@ Node.js =>            <img align="center" src="https://img.icons8.com/fluency/60
 -->
  
 
-<p align="center" >
- <img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/100/000000/external-thank-you-thanksgiving-justicon-flat-justicon.png"/>
-</p>
-
-
-
-
 
 
