@@ -76,6 +76,27 @@ Have a Nice Day 🙂
  -->
 
 
+<!-- 
+Icons - 
+
+PLUS ICON =>          <img align="center" src="https://i.imgur.com/t1LI2Zy.png"/>  
+REACT.JS ICON =>      <img align="center" src="https://img.icons8.com/plasticine/60/000000/react.png"/>  
+Typescript =>         <img align="center" src="https://img.icons8.com/color/60/000000/typescript.png"/>
+Express.js =>         <img align="center" src="https://img.icons8.com/nolan/60/express-js.png"/> 
+MongoDb =>            <img align="center" src="https://img.icons8.com/color/60/000000/mongodb.png"/>
+Javascript =>         <img align="center" src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
+Node.js =>            <img align="center" src="https://img.icons8.com/fluency/60/000000/node-js.png"/>
+
+-->
+
+<p align="center" >
+ <img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/100/000000/external-thank-you-thanksgiving-justicon-flat-justicon.png"/>
+</p>
+
+
+
+
+ 
 
 
 
