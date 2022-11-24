@@ -18,34 +18,22 @@ Have a Nice Day 🙂
 ## COLLABORATIVE   PROJECTS 👥
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-|  [Bugs-Destroyer](https://github.com/aniket2910/Bugs-Destroyer) | [Have a look](https://bugs-destroyer.vercel.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **ExpressJS** , **NodeJS** , **MongoDB**|
-|  [Max Fashion](https://github.com/Aakashvani/MaxFashion-Backend) | [Have a look](https://maxfashion-clone.netlify.app/) | **ExpressJS** , **NodeJS** , **MongoDB**|
-|  [Walmart Clone](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | [Have a look](https://github.com/Aakashvani/Walmart-Clone-Unit2-) | **Javascript** , **HTML** , **CSS** |
+|  [Bugs-Destroyer](https://github.com/aniket2910/Bugs-Destroyer) [ Full Stack] | [Have a look](https://bugs-destroyer.vercel.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB**|
+|  [Inspired by Kindmeal](https://github.com/muskan2507/Kindmeal) [ Frontend ]| [Have a look](https://lustrous-hotteok-719fc7.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server**|
+|  [Inspired by Max Fashion](https://github.com/nitinkadam70/TeamMax) [ Frontend ] | [Have a look](https://gracious-brattain-5ae9f0.netlify.app/) | **Javascript** , **HTML** , **CSS** |
 <hr>
 
 ## SOLO  PROJECTS 🏋🏻
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-|  [MERN Auth app](https://github.com/Aakashvani/mern-auth) | [Have a look](https://mern-auth-ak.netlify.app/) | **MongoDB** , **Express.JS** , **React.JS** , **Node.JS** , **Material.UI** | <!--Add MERN STACK Projects-->
-[Portfolio](https://github.com/Aakashvani/aakash-portfolio-website)  | [Have a look](https://aakash-portfolio-umber.vercel.app/) | **ReactJS** , **NextJS** , **Styled-Components** |
-|  [farfetch.com Clone](https://github.com/Aakashvani/Farfetch.com-Clone)  | [Have a look](https://fakestore-masaischool-project.netlify.app/index.html) |  **HTML** , **CSS** , **Javascript** |
-|  [URL Shortener ](https://github.com/Aakashvani/url-shortener) [ Backend ] | [Have a look](https://github.com/Aakashvani/url-shortener) | **NodeJS**, **MongoDB**, **ExpressJS** , **Ejs** |
-|  [Invoice API](https://github.com/Aakashvani/invoice-api) [ Backend ] | [Have a look](https://github.com/Aakashvani/invoice-api) | **Node.JS** , **Express.JS** , **MongoDB** |
+|  [Inspired by GoogleTasks-App](https://github.com/nitinkadam70/GoogleTasks-App) [ Full Stack ] | [Have a look](https://googletaskbynitin.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB** | <!--Add MERN STACK Projects-->
+[MoviesBookingApp](https://github.com/nitinkadam70/MoviesBookingApp) [ Frontend ] | [Have a look](https://moviesbookingapp.netlify.app/) |  **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server** |
+|  [Inspired by Pharmeasy](https://github.com/nitinkadam70/Pharmeasy) [ Frontend ] | [Have a look](https://pharmeasy-clone-nitinkadam.netlify.app/) |  **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server** |
+|  [Meal App ](https://github.com/nitinkadam70/MealApp) [ Frontend ] | [Have a look](https://frolicking-arithmetic-f91072.netlify.app/home) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Rest API** |
+|  [Inspired by whatsappweb](https://github.com/nitinkadam70/whatsappweb_clone) [ Full Stack ] | [Have a look](https://whatsappwebappclone.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB** |
 
 
 
-
-
-<hr>
-
-## FRONTEND   PROJECTS ✨
-| Github Repo  |  Deployed Link   | Tech Stack |
-| :-------- | :------- | :-------------------------------- |
-|  [React Weather App](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-weather-app) | [Have a look](https://react-weather-app-aakashvani.vercel.app/) | **ReactJS** , **Javascript** , **CSS** |
-|[Google Momentum Clone ](https://github.com/Aakashvani/momentum-clone) | [Have a look](http://momentum-clone-kappa.vercel.app/) |**ReactJs** , **Javascript**  , 
-
-
-<hr>
 
 
 ## MINI   PROJECTS 💡
@@ -63,32 +51,6 @@ Have a Nice Day 🙂
 
 
 
-
-<!--
-| Title  |  Deployed Link   | Tech Stack |
-| :-------- | :------- | :-------------------------------- |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
-|  [Project Name]()| [Have a look]() |  |
- -->
-
-
-<!-- 
-Icons - 
-
-PLUS ICON =>          <img align="center" src="https://i.imgur.com/t1LI2Zy.png"/>  
-REACT.JS ICON =>      <img align="center" src="https://img.icons8.com/plasticine/60/000000/react.png"/>  
-Typescript =>         <img align="center" src="https://img.icons8.com/color/60/000000/typescript.png"/>
-Express.js =>         <img align="center" src="https://img.icons8.com/nolan/60/express-js.png"/> 
-MongoDb =>            <img align="center" src="https://img.icons8.com/color/60/000000/mongodb.png"/>
-Javascript =>         <img align="center" src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
-Node.js =>            <img align="center" src="https://img.icons8.com/fluency/60/000000/node-js.png"/>
-
--->
 
 
 
