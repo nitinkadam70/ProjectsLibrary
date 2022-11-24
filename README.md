@@ -13,7 +13,16 @@ Have a Nice Day 🙂
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kadam-6612831b3/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitinkadam70)
 
+## SOLO  PROJECTS 🏋🏻
+| Github Repo  |  Deployed Link   | Tech Stack |
+| :-------- | :------- | :-------------------------------- |
+|  [Inspired by GoogleTasks-App](https://github.com/nitinkadam70/GoogleTasks-App) [ Full Stack ] | [Have a look](https://googletaskbynitin.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB** | <!--Add MERN STACK Projects-->
+[MoviesBookingApp](https://github.com/nitinkadam70/MoviesBookingApp) [ Frontend ] | [Have a look](https://moviesbookingapp.netlify.app/) |  **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server** |
+|  [Inspired by Pharmeasy](https://github.com/nitinkadam70/Pharmeasy) [ Frontend ] | [Have a look](https://pharmeasy-clone-nitinkadam.netlify.app/) |  **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server** |
+|  [Meal App ](https://github.com/nitinkadam70/MealApp) [ Frontend ] | [Have a look](https://frolicking-arithmetic-f91072.netlify.app/home) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Rest API** |
+|  [Inspired by whatsappweb](https://github.com/nitinkadam70/whatsappweb_clone) [ Full Stack ] | [Have a look](https://whatsappwebappclone.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB** |
 
+<hr>
 
 ## COLLABORATIVE   PROJECTS 👥
 | Github Repo  |  Deployed Link   | Tech Stack |
@@ -23,14 +32,7 @@ Have a Nice Day 🙂
 |  [Inspired by Max Fashion](https://github.com/nitinkadam70/TeamMax) [ Frontend ] | [Have a look](https://gracious-brattain-5ae9f0.netlify.app/) | **Javascript** , **HTML** , **CSS** |
 <hr>
 
-## SOLO  PROJECTS 🏋🏻
-| Github Repo  |  Deployed Link   | Tech Stack |
-| :-------- | :------- | :-------------------------------- |
-|  [Inspired by GoogleTasks-App](https://github.com/nitinkadam70/GoogleTasks-App) [ Full Stack ] | [Have a look](https://googletaskbynitin.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB** | <!--Add MERN STACK Projects-->
-[MoviesBookingApp](https://github.com/nitinkadam70/MoviesBookingApp) [ Frontend ] | [Have a look](https://moviesbookingapp.netlify.app/) |  **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server** |
-|  [Inspired by Pharmeasy](https://github.com/nitinkadam70/Pharmeasy) [ Frontend ] | [Have a look](https://pharmeasy-clone-nitinkadam.netlify.app/) |  **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server** |
-|  [Meal App ](https://github.com/nitinkadam70/MealApp) [ Frontend ] | [Have a look](https://frolicking-arithmetic-f91072.netlify.app/home) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Rest API** |
-|  [Inspired by whatsappweb](https://github.com/nitinkadam70/whatsappweb_clone) [ Full Stack ] | [Have a look](https://whatsappwebappclone.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB** |
+
 
 
 
