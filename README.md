@@ -29,8 +29,10 @@ Have a Nice Day 🙂
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
 |  [Bugs-Destroyer](https://github.com/aniket2910/Bugs-Destroyer) [ Full Stack] | [Have a look](https://bugs-destroyer.vercel.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB**|
+|  [Inspired by Bitrix24](https://github.com/nitinkadam70/ambiguous-oven-8467) [ Frontend ]| [Have a look](https://sprightly-vacherin-cf3ae8.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** |
 |  [Inspired by Kindmeal](https://github.com/muskan2507/Kindmeal) [ Frontend ]| [Have a look](https://lustrous-hotteok-719fc7.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server**|
 |  [Inspired by Max Fashion](https://github.com/nitinkadam70/TeamMax) [ Frontend ] | [Have a look](https://gracious-brattain-5ae9f0.netlify.app/) | **Javascript** , **HTML** , **CSS** |
+
 
 
 <hr>
@@ -41,8 +43,10 @@ Have a Nice Day 🙂
 | :-------- | :------- | :-------------------------------- |
 [Gym App](https://github.com/nitinkadam70/wtf_gymappassgn)| [Have a look](https://wtfupassgn.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** |
 [Timer & BottomSheet](https://github.com/nitinkadam70/CustomerGlu-assessment)| [Have a look](https://bottomsheet-timer-by-nitinkadam.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** |
+[B
 [registration_from ](https://github.com/nitinkadam70/registration_from)| [Have a look](https://registration-form-responsive.netlify.app/)| **HTML** , **CSS** |
 [Quiz](https://github.com/nitinkadam70/FreeCodeCamp/tree/main/Fcc_Quiz)| [Have a look](https://html-css-quiz-fcc.netlify.app/#css-questions) | **HTML** , **CSS** |
+[Movies App](https://github.com/nitinkadam70/Movies-App)| [Have a look](https://silver-madeleine-6aed29.netlify.app/) | **Javascript** , **HTML** , **CSS** |
 [Cafe Menu](https://github.com/nitinkadam70/FreeCodeCamp/tree/main/Cafe%20Menu)| [Have a look](https://cafe-menu-fcc.netlify.app/) | **HTML** , **CSS**  |
 
 
