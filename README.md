@@ -21,6 +21,7 @@ Have a Nice Day 🙂
 |  [Inspired by Pharmeasy](https://github.com/nitinkadam70/Pharmeasy) [ Frontend ] | [Have a look](https://pharmeasy-clone-nitinkadam.netlify.app/) |  **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server** |
 |  [Meal App ](https://github.com/nitinkadam70/MealApp) [ Frontend ] | [Have a look](https://frolicking-arithmetic-f91072.netlify.app/home) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Rest API** |
 |  [Inspired by whatsappweb](https://github.com/nitinkadam70/whatsappweb_clone) [ Full Stack ] | [Have a look](https://whatsappwebappclone.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB** |
+[Student management system](https://github.com/nitinkadam70/student-management-system) [ Frontend ]| [Have a look](https://resolute-ai-assign-nitinkadam.netlify.app) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** |
 
 <hr>
 
@@ -30,25 +31,19 @@ Have a Nice Day 🙂
 |  [Bugs-Destroyer](https://github.com/aniket2910/Bugs-Destroyer) [ Full Stack] | [Have a look](https://bugs-destroyer.vercel.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **NodeJS** , **ExpressJS** , **MongoDB**|
 |  [Inspired by Kindmeal](https://github.com/muskan2507/Kindmeal) [ Frontend ]| [Have a look](https://lustrous-hotteok-719fc7.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** , **JSON-server**|
 |  [Inspired by Max Fashion](https://github.com/nitinkadam70/TeamMax) [ Frontend ] | [Have a look](https://gracious-brattain-5ae9f0.netlify.app/) | **Javascript** , **HTML** , **CSS** |
+
+
 <hr>
-
-
-
-
-
 
 
 ## MINI   PROJECTS 💡
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
-[Modern Landing Page](https://github.com/Aakashvani/react-modern-landing-page)| [Have a look](https://eggeater.netlify.app/) | **ReactJS** , **Javascript** , **TailwindCSS**|
-[TODO App](https://github.com/Aakashvani/react-todo-app) | [Have a look](https://react-todo-app-six-beta.vercel.app/) | **ReactJS** , **CSS3** , **Javascript** |
-|  [Job Hunter](https://github.com/Aakashvani/job_hunter.com)| [Have a look](https://job-hunter-com.vercel.app/) | **ReactJS** , **TailwindCSS** |
-|  [React Counter App](https://github.com/Aakashvani/react-counter)| [Have a look](https://testing-two-mu.vercel.app/) | **ReactJS** , **Javascript** |
-|  [React Search Filter](https://github.com/Aakashvani/React-Mini-Projects/tree/main/react-search-filter)| [Have a look](https://react-search-filter-app.vercel.app/) | **React.JS** , **Chakra UI** , **Javascript** |
-|  [Typescript - e-com](https://github.com/Aakashvani/hello-typescript/tree/main/Projects/e-commerce)| [Have a look](https://e-commerce-f43q9uxjh-aakashvani.vercel.app/) | **Typescript** , **React.JS** , **Bootstrap** , **CSS** | <!--Add Typescript mini projects-->
-|  [Typescript - Todo App](https://github.com/Aakashvani/hello-typescript/tree/main/Projects/todo-app)| [Have a look](https://typescript-todo-app-one.vercel.app/) | **Typescript** , **React.JS** , **CSS** |
-|  [Tic Tac Toe](https://github.com/Aakashvani/tic-tac-toe-game)| [Have a look](http://tic-tac-toe-game-taupe.vercel.app/) | **Javascript** , **Vuejs**  , **Tailwindcss** |
+[Timer & BottomSheet](https://github.com/nitinkadam70/CustomerGlu-assessment)| [Have a look](https://bottomsheet-timer-by-nitinkadam.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** |
+[registration_from ](https://github.com/nitinkadam70/registration_from)| [Have a look](https://registration-form-responsive.netlify.app/)| **Javascript** , **HTML** , **CSS** |
+[Student management system](https://github.com/nitinkadam70/FreeCodeCamp/tree/main/Fcc_Quiz)| [Have a look](https://html-css-quiz-fcc.netlify.app/#css-questions) | **Javascript** , **HTML** , **CSS** |
+
+
 <hr>
 
 
