@@ -39,9 +39,11 @@ Have a Nice Day 🙂
 ## MINI   PROJECTS 💡
 | Github Repo  |  Deployed Link   | Tech Stack |
 | :-------- | :------- | :-------------------------------- |
+[Gym App](https://github.com/nitinkadam70/wtf_gymappassgn)| [Have a look](https://wtfupassgn.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** , **Redux** |
 [Timer & BottomSheet](https://github.com/nitinkadam70/CustomerGlu-assessment)| [Have a look](https://bottomsheet-timer-by-nitinkadam.netlify.app/) | **Javascript** , **HTML** , **CSS** , **ReactJS** |
-[registration_from ](https://github.com/nitinkadam70/registration_from)| [Have a look](https://registration-form-responsive.netlify.app/)| **Javascript** , **HTML** , **CSS** |
-[Student management system](https://github.com/nitinkadam70/FreeCodeCamp/tree/main/Fcc_Quiz)| [Have a look](https://html-css-quiz-fcc.netlify.app/#css-questions) | **Javascript** , **HTML** , **CSS** |
+[registration_from ](https://github.com/nitinkadam70/registration_from)| [Have a look](https://registration-form-responsive.netlify.app/)| **HTML** , **CSS** |
+[Quiz](https://github.com/nitinkadam70/FreeCodeCamp/tree/main/Fcc_Quiz)| [Have a look](https://html-css-quiz-fcc.netlify.app/#css-questions) | **HTML** , **CSS** |
+[Cafe Menu](https://github.com/nitinkadam70/FreeCodeCamp/tree/main/Cafe%20Menu)| [Have a look](https://cafe-menu-fcc.netlify.app/) | **HTML** , **CSS**  |
 
 
 <hr>
